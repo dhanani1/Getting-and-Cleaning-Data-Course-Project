@@ -1,6 +1,6 @@
 # Getting-and-Cleaning-Data-Course-Project
 
-This is the course project for the Getting and Cleaning Data Coursera course. The R script, GettingandCleaningDataProject.R, does the following:
+This is the course project for the Getting and Cleaning Data Coursera course. The R script, run_analysis.R, does the following:
 
 -It loads the training and test datasets, only keeping the columns which reflect a mean or standard deviation
 
